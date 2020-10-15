@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.program.Anonymous"                                                                                                                                    
 	   name=" [COLOR tan][B]Kodi Anonymous[/B][/COLOR]"                                                 
-	   version="2.3.0"                                                                                                                                        
+	   version="2.3.1"                                                                                                                                        
 	   provider-name="">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
