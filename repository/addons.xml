@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.program.Anonymous"                                                                                                                                    
 	   name=" [COLOR yellow][B]Anonymous TV[/B][/COLOR]"                                                 
-	   version="4.9.0"                                                                                                                                        
+	   version="4.9.1"                                                                                                                                        
 	   provider-name="">
   <requires>
     <!-- <import addon="xbmc.python" version="3.0.0"/> -->
